@@ -1,0 +1,55 @@
+.pink li{
+    
+    display: block;
+    padding: 25px;
+    float: left;
+}
+
+.pink{
+    overflow: hidden;
+    background-color: #333;
+    margin: 0;
+    
+}
+
+li a{
+    color: white;
+}
+
+h1 b{
+    display: flex;
+   justify-content: center;
+   
+    
+
+}
+
+body{
+    background: fixed;
+    text-align: center;
+    font-family: 'Poppins', sans-serif; 
+    justify-content: left;
+    background-color: #eee;
+}
+   
+.fade{
+    width: 500px;
+    margin: 0 auto;
+   text-align: justify;
+   background-color: #fff;
+   padding: 100px;   
+   height: 300%;
+}
+
+
+h1{
+    text-align: center;
+}
+.love{
+    text-align: center;
+}
+
+footer{
+    margin: 0 auto;
+    text-align: center;
+}
